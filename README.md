@@ -35,7 +35,7 @@
 
 - Clone this repository
   
-- Install packages (From messaging-server folder)
+- Install packages (From messaging-client folder)
    ```(shell)
     npm install
     ```
